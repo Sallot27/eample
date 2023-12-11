@@ -4,16 +4,12 @@ This abstract proposes the development of a mobile application designed to strea
 
 # Key features:
 
-# Students:
-Discover and browse upcoming university events
-Register for events with a single tap
-Receive unique QR codes for event access
-Provide feedback by liking or disliking events
-Event organizers:
-Add and manage events with ease
-Include detailed information like name, date, image, and description
-Promote events directly through the app
-Gain valuable insights from student feedback
+- Students:
+Discover and browse upcoming university events.      Register for events with a single tap.    Receive unique QR codes for event access.    Provide feedback by liking or disliking events.
+
+- Event organizers:
+Add and manage events with ease.    Include detailed information like name, date, image, and description.    Promote events directly through the app.    Gain valuable insights from student feedback.
+
 This application aims to enhance the overall event experience for both students and organizers, leading to increased participation, improved event planning, and a more vibrant campus community.
 
 # University-Events
